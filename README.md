@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pcordsen working as a statistician at DACS, Danish Center for Clinical Health Services Research
+- 👋 Hi, I’m @pcordsen working as a statistician at the Danish Center for Health Services Research
 - 👀 I’m interested in statistics and cleancode
 - 🌱 I’m currently learning cleancode 
 - 💞️ I’m looking to collaborate on cleancode and statistical coding in R, SAS and stata
